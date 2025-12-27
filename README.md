@@ -1,5 +1,8 @@
 # Pixel Quiz Quest (Pixel Art 問答遊戲)
 
+**🎮 Live Demo:** [https://kenko-chen.github.io/pixel-game/](https://kenko-chen.github.io/pixel-game/)
+
+
 這是一個基於 React + Vite 開發的像素風格 (Pixel Art) 闖關問答遊戲。
 遊戲特色包含復古街機介面、DiceBear 像素角色生成、以及與 Google Sheets/Apps Script 串接的完整後端計分系統。
 
